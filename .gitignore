@@ -1,0 +1,100 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyTorch and ML related
+~/.torch/
+~/.cache/torch/
+~/.cache/huggingface/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.t7
+*.npz
+
+# Datasets (custom or downloaded)
+data/
+datasets/
+*.zip
+*.tar.gz
+*.h5
+*.lmdb
+
+# Logs and outputs
+*.log
+*.out
+*.err
+*.tensorboard/
+runs/
+checkpoints/
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Test / coverage outputs
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+htmlcov/
+coverage.xml
+nosetests.xml
+test-output/
+junit-*.xml
+
+# MyPy / Pylint / other tools
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+pylint-report.txt
+
+
+
+*Zone.Identifier
